@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: MobileBASIC IDE (http://mbteam.ru)
+MIDlet-1: Map_Engine_ActionX,icons.png,Main
+MIDlet-Vendor: Mr.Gifo
+MIDlet-Version: 0.1
+MIDlet-Name: Map_Engine_ActionX
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+FullScreenMode: true
